@@ -9,7 +9,7 @@ import Payment from "../pages/Payment"
 export default function Allroutes() {
   return (
     <Switch>
-      <Route exact path="/">
+      <Route exact path="/flipkartClone">
         <Home />
       </Route>
       <Route exact path="/cart">
@@ -27,7 +27,7 @@ export default function Allroutes() {
       <Route exact path="/payment">
         <Payment/>
       </Route>
-      <Redirect to="/" />
+      <Redirect to="/flipkartClone" />
     </Switch>
   );
 }

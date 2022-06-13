@@ -1,14 +1,14 @@
 import "./App.css";
 import NavBar from "./components/common/NavBar";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Switch, HashRouter } from "react-router-dom";
 import Allroutes from "./routes/Allroutes";
 
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      <HashRouter>
         <Allroutes />
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

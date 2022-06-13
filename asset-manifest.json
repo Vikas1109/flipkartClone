@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/flipkartClone/static/css/main.d27954bd.css",
-    "main.js": "/flipkartClone/static/js/main.6c6d936d.js",
+    "main.js": "/flipkartClone/static/js/main.d0a55baf.js",
     "static/js/787.404bbebe.chunk.js": "/flipkartClone/static/js/787.404bbebe.chunk.js",
     "static/media/revicons.eot": "/flipkartClone/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/flipkartClone/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/flipkartClone/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/flipkartClone/index.html",
     "main.d27954bd.css.map": "/flipkartClone/static/css/main.d27954bd.css.map",
-    "main.6c6d936d.js.map": "/flipkartClone/static/js/main.6c6d936d.js.map",
+    "main.d0a55baf.js.map": "/flipkartClone/static/js/main.d0a55baf.js.map",
     "787.404bbebe.chunk.js.map": "/flipkartClone/static/js/787.404bbebe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d27954bd.css",
-    "static/js/main.6c6d936d.js"
+    "static/js/main.d0a55baf.js"
   ]
 }

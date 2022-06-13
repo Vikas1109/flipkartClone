@@ -1,4 +1,4 @@
-import { Switch, Route } from "react-router-dom";
+import { Switch, Route, Redirect } from "react-router-dom";
 import Home from "../pages/Home";
 import { CartLayoutPage } from "../pages/CartLayoutPage";
 import ProductDetail from "../pages/ProductDetail";
@@ -27,6 +27,7 @@ export default function Allroutes() {
       <Route exact path="/payment">
         <Payment/>
       </Route>
+      <Redirect to="/" />
     </Switch>
   );
 }
